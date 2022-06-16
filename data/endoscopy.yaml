@@ -1,0 +1,6 @@
+{
+  names: [01_ulcer, 02_mass, 04_lymph, 05_bleeding],
+  nc: 4,
+  train: datasets/train/train_dataset.txt,
+  val: datasets/train/valid_dataset.txt
+}
