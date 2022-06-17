@@ -21,7 +21,8 @@
 
 - 모델 : YOLOv5 : https://github.com/ultralytics/yolov5
 - 학습결과 : https://github.com/jaeseonYS/2022MedicalMachineLearning/releases
+- mAP(IoU:0.5) = 0.8535
 
   ![image](https://user-images.githubusercontent.com/107654296/174196663-3094d351-83b6-4c3c-812a-26f51cdc8bee.png)
 
-- mAP(IoU:0.5) = 0.8535
+
